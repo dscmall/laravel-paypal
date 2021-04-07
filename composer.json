@@ -4,14 +4,8 @@
     "keywords": ["paypal", "payments", "rest", "sdk"],
     "type": "library",
     "license": "Apache-2.0",
-    "authors": [
-        {
-            "name": "PayPal",
-            "homepage": "https://github.com/paypal/rest-api-sdk-php/contributors"
-        }
-    ],
     "require": {
-        "php": ">=5.3.0",
+        "php": "^8.0",
         "ext-curl": "*",
         "ext-json": "*",
         "psr/log": "^1.0.0"
